@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+
+# OS X stuff
+*.DS_Store
+
+venv
+*.pyc
+.DS_Store
+.env
+
